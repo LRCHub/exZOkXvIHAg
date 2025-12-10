@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Nostalgia",
+  "base_artist": "ユク・ソンジェ",
+  "createdAt": "2025-12-10T04:12:26.097444Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nostalgia",
+      "artist": "MØ",
+      "has_synced": true,
+      "path": "select/01_Nostalgia_MØ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nostalgia in Lemonade",
+      "artist": "Avey Tare",
+      "has_synced": true,
+      "path": "select/02_Nostalgia_in_Lemonade_Avey_Tare.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nostalgia",
+      "artist": "Nitin Sawhney",
+      "has_synced": true,
+      "path": "select/03_Nostalgia_Nitin_Sawhney.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nostalgia",
+      "artist": "W O L F C L U B",
+      "has_synced": true,
+      "path": "select/04_Nostalgia_W_O_L_F_C_L_U_B.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Strange Nostalgia For The Future",
+      "artist": "Cut Copy",
+      "has_synced": false,
+      "path": "select/05_Strange_Nostalgia_For_The_Future_Cut_Copy.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Future Nostalgia",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/06_Future_Nostalgia_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Future Nostalgia",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/07_Future_Nostalgia_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Nostalgia Factory",
+      "artist": "Porcupine Tree",
+      "has_synced": true,
+      "path": "select/08_The_Nostalgia_Factory_Porcupine_Tree.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nostalgia",
+      "artist": "David Sylvian",
+      "has_synced": true,
+      "path": "select/09_Nostalgia_David_Sylvian.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Last Sigh of Nostalgia",
+      "artist": "Carpathian Forest",
+      "has_synced": false,
+      "path": "select/10_The_Last_Sigh_of_Nostalgia_Carpathian_Forest.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Beyond Nostalgia",
+      "artist": "The Pinker Tones",
+      "has_synced": false,
+      "path": "select/11_Beyond_Nostalgia_The_Pinker_Tones.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nostalgia",
+      "artist": "Epica",
+      "has_synced": true,
+      "path": "select/12_Nostalgia_Epica.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nostalgia",
+      "artist": "Stream of Passion",
+      "has_synced": true,
+      "path": "select/13_Nostalgia_Stream_of_Passion.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nostalgia",
+      "artist": "Stream Of Passion",
+      "has_synced": true,
+      "path": "select/14_Nostalgia_Stream_Of_Passion.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Future Nostalgia (Joe Goddard Remix)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/15_Future_Nostalgia_(Joe_Goddard_Remix)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Future Nostalgia (Joe Goddard remix)",
+      "artist": "Dua Lipa",
+      "has_synced": false,
+      "path": "select/16_Future_Nostalgia_(Joe_Goddard_remix)_Dua_Lipa.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nostalgia",
+      "artist": "ユク・ソンジェ",
+      "has_synced": false,
+      "path": "select/pl_01_Nostalgia_ユク・ソンジェ.txt"
+    }
+  ]
+}
